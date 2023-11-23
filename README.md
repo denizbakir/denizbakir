@@ -34,7 +34,7 @@ Software And Game Developer
 <b>My GitHub Stats:</b>
 
 <p align="left">
-<a href="http://www.github.com/denizbakir"><img src="https://github-readme-stats.vercel.app/api?username=denizbakir&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="denizbakir's GitHub stats" /></a> <a href="http://www.github.com/denizbakir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=denizbakir&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/denizbakir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=denizbakir&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 
