@@ -44,6 +44,3 @@ Software And Game Developer
 
 <a href="https://www.buymeacoffee.com/dnzbakir"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<img src="https://raw.githubusercontent.com/denizbakir/denizbakir/output/snake.svg" alt="Snake animation" />
-
-###
